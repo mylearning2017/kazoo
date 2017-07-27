@@ -50,6 +50,7 @@
 -define(TEST_CAT_EMPTY, <<"test_category_empty">>).
 
 %% AccountIds for different test situation
+-define(EMPTY_ALL, <<"2e7e4bdf5eff5d04b8153fa7d81f0168">>).
 -define(NOT_CUSTOMIZED_ALL_ACCOUNTS, <<"087ca0424ec8acf3acc1f87ac81f28e1">>).
 -define(CUSTOMIZED_RESELLER, <<"123ca0424ec8acf3acc1f87ac81f2123">>).
 -define(CUSTOMIZED_RESELLER_UNDEFINED, <<"7cc16a9cd8bcfeea4732986790e930a4">>).
